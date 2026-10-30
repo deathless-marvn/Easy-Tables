@@ -208,4 +208,4 @@ Easy Tables is provided as a full free version with all features and updates inc
 Don't miss out on the opportunity to simplify your data management. Download Easy Tables free today and start working with your CSV files in a comfortable and efficient way!
 
 ---
-**Last updated:** 2026-10-30 10:32:01 UTC
+**Last updated:** 2026-10-30 16:50:54 UTC
